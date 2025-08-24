@@ -1,2 +1,2 @@
-# shopify
+# Shopify
 Shopify store codes
